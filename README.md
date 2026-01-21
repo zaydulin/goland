@@ -1,7 +1,7 @@
 # goland
 
 Стратура папоп
-
+arhitype
 src
 └── _uploads
 ├── cmd
